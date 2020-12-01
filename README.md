@@ -1,2 +1,4 @@
-# hello-world
-This is a hello-world repo. Just ignore it I guess.
+# caden
+This is a demo hello-world repo. Just ignore it I guess.
+
+- Caden Gudenkauf
